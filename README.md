@@ -7,8 +7,8 @@
 </h3>
 
 <p align="justify">
-A 2D-console based game with some thrilling experience and score boarding for the user
-I have designed it as a 2D Console based C++ game.  
+A 2D-console based game with some thrilling experience and score boarding for the user. Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
+I have designed it as a 2D Console based game.  
 </p>
 <br>
 <!-- ................................................................................................................................. -->
@@ -17,13 +17,11 @@ I have designed it as a 2D Console based C++ game.
 <br>
 Following are rules to play the game:
 
-- The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. 
-- Eating  dots called (Food Pellets) causes Pac-Man to earn bonus points.
-- Pac-Man can only move inside the maze, cannot go outside the walls of maze.
-- Pac-Man has to avoid ghosts.
-- Colliding with the ghosts result in -1 from lives.
-- There are total three lives of Pac-Man.
-- If Pac-Man collides with the ghosts more than three times, then the game will be over.
+- There are two players in the game.
+- The game is played on a grid that's 3 squares by 3 squares.
+- Players take turns putting their respective marks in empty squares.
+- The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
+- When all 9 squares are full, the game is draw.
 
 <br>
 
