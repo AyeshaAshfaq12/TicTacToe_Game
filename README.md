@@ -55,6 +55,6 @@ Follwing technologies have been used in development of game:
 <br>
 <img src = "/img/gui2.png">
 <br>
-<img src = "/img/AyeshaWins.png">
+
 <br><br>
 <!-- ................................................................................................................................. -->
