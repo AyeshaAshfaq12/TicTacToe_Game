@@ -51,9 +51,6 @@ Follwing technologies have been used in development of game:
 <!-- ................................................................................................................................. -->
 
 ### GUI
-![GUI for this Project]
-(/img/gui1.png)
-(/img/gui2.png)
-(/img/AyeshaWins.png)
+![GUI for this Project](/img/gui1.png)(/img/gui2.png)(/img/AyeshaWins.png)
 <br><br>
 <!-- ................................................................................................................................. -->
