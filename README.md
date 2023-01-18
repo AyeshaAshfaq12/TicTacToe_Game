@@ -37,8 +37,6 @@ Libraries of C++ used in development of game:
 <br>
 <!-- .................................... -->
 
-<br>
-
 ### Technology Stack
 <br>
 Follwing technologies have been used in development of game:
@@ -47,7 +45,7 @@ Follwing technologies have been used in development of game:
 
 <!-- .................................... -->
 
-<br><br>
+<br>
 <!-- ................................................................................................................................. -->
 
 ### GUI
@@ -56,5 +54,5 @@ Follwing technologies have been used in development of game:
 <img src = "/img/gui2.png">
 <br>
 <img src = "/img/gui3.png">
-<br><br>
+<br>
 <!-- ................................................................................................................................. -->
