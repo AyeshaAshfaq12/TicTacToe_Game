@@ -48,11 +48,10 @@ Follwing technologies have been used in development of game:
 <br>
 <!-- ................................................................................................................................. -->
 
-### GUI
-<img src = "/img/gui1.png">
-<br>
-<img src = "/img/gui2.png">
-<br>
-<img src = "/img/gui3.png">
+### Graphical User Interface
+
+<img src = "/img/gui1.png" width="497" height="300" align="left">
+<img src = "/img/gui2.png"  width="494" height="300" align="center">
+<img src = "/img/gui3.png" align="center">
 <br>
 <!-- ................................................................................................................................. -->
